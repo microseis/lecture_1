@@ -5,6 +5,8 @@ class Solver():
         print("This is my solver")
 
 
+def add(a: int, b):
+    return a + b
 
 
 if __name__ == '__main__':
