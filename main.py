@@ -5,12 +5,13 @@ load_dotenv()
 
 
 class Solver():
+    """Очень важный класс."""
 
     def __init__(self):
         print("This is my solver")
 
 
-def add(a: int, b):
+def add(a: int, b: int):
     return a + b
 
 
