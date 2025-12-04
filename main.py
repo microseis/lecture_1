@@ -3,8 +3,6 @@ import os
 
 load_dotenv()
 
-database_url = os.getenv("DATABASE_URL")
-
 
 class Solver():
 
@@ -18,3 +16,5 @@ def add(a: int, b):
 
 if __name__ == '__main__':
     solver = Solver()
+    database_url = os.getenv("DATABASE_PASSWORD")
+    print(database_url)
