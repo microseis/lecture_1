@@ -1,9 +1,9 @@
 {
     "python.analysis.typeCheckingMode": "standard",
     "python.analysis.autoImportCompletions": true,
-    "editor.fontSize": 13,
+    "editor.fontSize": 15,
     "editor.tabSize": 4,
-    "terminal.integrated.fontSize": 13,
-    "window.zoomLevel": 0.7
+    "terminal.integrated.fontSize": 15,
+    "window.zoomLevel": 1.3
 
 }
